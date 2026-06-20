@@ -104,4 +104,4 @@ Este projeto foi desenvolvido para praticar conceitos importantes do desenvolvim
 
 ## 👩‍💻 Autor
 
-Projeto desenvolvido por **Marcela Moura** como parte do programa de **Desenvolvimento Web da TripleTen**.
+Projeto desenvolvido por **Marcela Moura** como parte do programa de **Desenvolvimento Web da TripleTen**
