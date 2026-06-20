@@ -1,107 +1,91 @@
-# 🌎 EUA Afora
+# 🌎 Around The U.S.
 
-## 📌 Descrição
+## 📌 Description
 
-**EUA Afora** é uma aplicação web desenvolvida como parte do programa de Desenvolvimento Web da TripleTen.
+**Around The U.S.** is a web application developed as part of the Web Development Program at TripleTen.
 
-O projeto permite que os usuários interajam com uma galeria de fotos, gerenciem informações do perfil e utilizem um sistema de autenticação para acessar funcionalidades da plataforma.
+The project lets users interact with a photo gallery, manage profile information, and use an authentication system to access the platform's features.
 
-A aplicação foi construída utilizando **React** e possui uma interface moderna, intuitiva e totalmente responsiva, proporcionando uma experiência consistente em computadores, tablets e dispositivos móveis.
+The application was built using **React** and has a modern, simple, and fully responsive interface. It provides a good experience on computers, tablets, and mobile devices.
 
-O principal objetivo deste projeto foi praticar conceitos avançados do desenvolvimento front-end, como componentização, gerenciamento de estado, roteamento e autenticação de usuários.
-
----
-
-## ✨ Funcionalidades
-
-* 🔐 Cadastro e autenticação de usuários;
-* 👤 Gerenciamento e atualização das informações do perfil;
-* ❤️ Curtir e descurtir fotos;
-* 🖼️ Visualizar uma galeria interativa de imagens;
-* 📝 Preencher e enviar formulários;
-* 📱 Interface totalmente responsiva;
-* ⚡ Navegação dinâmica entre as páginas.
+The main objective of this project was to practice front-end development concepts like components, state management, routing, and user authentication.
 
 ---
 
-## 🛠️ Tecnologias Utilizadas
+## ✨ Features
 
-* **React** → Criação de componentes reutilizáveis e gerenciamento da interface;
-* **JavaScript (ES6+)** → Implementação da lógica da aplicação;
-* **JSX** → Estruturação dos componentes React;
-* **HTML5** → Estrutura semântica da aplicação;
-* **CSS3** → Estilização moderna e responsiva;
-* **React Router** → Gerenciamento das rotas da aplicação;
-* **Vite** → Ferramenta para desenvolvimento e build do projeto;
-* **ESLint** → Padronização e qualidade do código.
+* 🔐 User sign-up and authentication;
+* 👤 Manage and update profile information;
+* ❤️ Like and unlike photos;
+* 🖼️ Interactive image gallery;
+* 📝 Fill out and submit forms;
+* 📱 Fully responsive interface;
+* ⚡ Dynamic navigation between pages.
 
 ---
 
-## 🚀 Como executar o projeto
+## 🛠️ Technologies Used
 
-### 1. Clone o repositório
+* **React** → Creating reusable components and managing the UI;
+* **JavaScript (ES6+)** → Application logic;
+* **JSX** → Structuring React components;
+* **HTML5** → Semantic structure;
+* **CSS3** → Modern and responsive styling;
+* **React Router** → Application route management;
+* **Vite** → Development and build tool;
+* **ESLint** → Code linting and quality.
+
+---
+
+## 🚀 How to run the project
+
+### 1. Clone the repository
 
 ```bash
 git clone https://github.com/MarcelaMourar/web_project_around_auth.git
 ```
 
-### 2. Acesse a pasta do projeto
+### 2. Go to the project folder
 
 ```bash
 cd web_project_around_auth
 ```
 
-### 3. Instale as dependências
+### 3. Install dependencies
 
 ```bash
 npm install
 ```
 
-### 4. Inicie o servidor de desenvolvimento
+### 4. Start the development server
 
 ```bash
 npm run dev
 ```
 
-### 5. Abra o projeto no navegador
+### 5. Open the project in your browser
 
-A aplicação estará disponível em:
+The application will be available at:
 
 ```text
 http://localhost:3000
 ```
 ---
 
-## 🌐 Links
+## 🎯 Project Objective
 
-### Repositório
+This project was built to practice important concepts of modern front-end development, such as:
 
-https://github.com/MarcelaMourar/web_project_around_auth
-
-### Aplicação online (GitHub Pages)
-
-Adicione aqui o link da aplicação publicada no GitHub Pages, caso esteja disponível.
-
-```text
-https://marcelamourar.github.io/web_project_around_auth/
-```
+* Component structure with React;
+* State management;
+* Form handling;
+* Creating routes and navigating between pages;
+* Implementing user authentication;
+* Code organization and reuse;
+* Coding best practices.
 
 ---
 
-## 🎯 Objetivo do Projeto
+## 👩‍💻 Author
 
-Este projeto foi desenvolvido para praticar conceitos importantes do desenvolvimento front-end moderno, como:
-
-* Componentização com React;
-* Gerenciamento de estado;
-* Manipulação de formulários;
-* Criação de rotas e navegação entre páginas;
-* Implementação de autenticação de usuários;
-* Organização e reutilização de código;
-* Boas práticas de desenvolvimento.
-
----
-
-## 👩‍💻 Autor
-
-Projeto desenvolvido por **Marcela Moura** como parte do programa de **Desenvolvimento Web da TripleTen**
+Project developed by **Marcela Moura** as part of the **TripleTen Web Development Program**.
