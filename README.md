@@ -42,13 +42,13 @@ The main objective of this project was to practice front-end development concept
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/MarcelaMourar/web_project_around_auth.git
+git clone https://github.com/MarcelaMourar/around-us-auth.git
 ```
 
 ### 2. Go to the project folder
 
 ```bash
-cd web_project_around_auth
+cd around-us-auth
 ```
 
 ### 3. Install dependencies
